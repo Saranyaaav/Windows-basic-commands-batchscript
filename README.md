@@ -41,7 +41,8 @@ Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
-![Screenshot 2024-05-14 141654](https://github.com/Saranyaaav/Windows-basic-commands-batchscript/assets/144870813/cdf9a6d3-22a8-45a7-83de-5ddf2ea86ebe)
+![Screenshot 2024-05-14 142525](https://github.com/Saranyaaav/Windows-basic-commands-batchscript/assets/144870813/c0d68722-2afc-42ed-85cf-5cf1438a9ede)
+
 
 
 
